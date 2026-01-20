@@ -9,7 +9,8 @@ You can read more about it [here](https://en.wikipedia.org/wiki/Instrumental_con
 
 
 You can play the original Universal Paperclips game [here](https://www.decisionproblem.com/paperclips/)
-
+## UML rough draft
+![dauml](https://github.com/pwspew/3dpaperclipcopy/blob/main/images/peepee.drawio.png)
 ## Core Loop (not in order)
 * Make Sticky notes
 * hire new workers
