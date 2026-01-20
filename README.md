@@ -4,4 +4,8 @@ imagine a paperclip company developing an AI by giving it the simple task of cre
 
 
 You can read more about it [here](https://en.wikipedia.org/wiki/Instrumental_convergence)
+
+
+
+
 You can play the original Universal Paperclips game [here](https://www.decisionproblem.com/paperclips/)
