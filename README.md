@@ -5,12 +5,12 @@ imagine a paperclip company developing an AI by giving it the simple task of cre
 
 You can read more about it [here](https://en.wikipedia.org/wiki/Instrumental_convergence)
 
-### group project:
-[granny copy](https://github.com/pwspew/groupprojectbazinga0234/blob/main/README.md)
 
 
 You can play the original Universal Paperclips game [here](https://www.decisionproblem.com/paperclips/)
 
+### group project:
+[granny copy](https://github.com/pwspew/groupprojectbazinga0234/blob/main/README.md)
 ## Core Loop (not in order)
 * Make Sticky notes
 * hire new workers
