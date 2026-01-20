@@ -9,3 +9,9 @@ You can read more about it [here](https://en.wikipedia.org/wiki/Instrumental_con
 
 
 You can play the original Universal Paperclips game [here](https://www.decisionproblem.com/paperclips/)
+
+
+
+# Main office decor inspirations
+
+![stanley](https://github.com/pwspew/3dpaperclipcopy/blob/main/images/The_Office.webp)
