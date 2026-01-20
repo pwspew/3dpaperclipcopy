@@ -10,7 +10,12 @@ You can read more about it [here](https://en.wikipedia.org/wiki/Instrumental_con
 
 You can play the original Universal Paperclips game [here](https://www.decisionproblem.com/paperclips/)
 
-
+## Core Loop (not in order)
+* Make Sticky notes
+* hire new workers
+* raise and lower price of sticky notes
+* study public demand
+* unlock office space for more sticky note production
 
 ## Main office decor inspirations
 * ### Stanley Parable
