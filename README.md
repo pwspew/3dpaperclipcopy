@@ -13,11 +13,11 @@ You can play the original Universal Paperclips game [here](https://www.decisionp
 
 
 ## Main office decor inspirations
-### Stanley Parable
+* ### Stanley Parable
 ![stanley](https://github.com/pwspew/3dpaperclipcopy/blob/main/images/The_Office.webp)
 
 
-### Portal
+* ### Portal
 ![stillalive](https://github.com/pwspew/3dpaperclipcopy/blob/main/images/download.jpg)
 
 
