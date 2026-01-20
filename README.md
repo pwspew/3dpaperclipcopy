@@ -16,7 +16,11 @@ You can play the original Universal Paperclips game [here](https://www.decisionp
 * raise and lower price of sticky notes
 * study public demand
 * unlock office space for more sticky note production
-
+## Base Mechanics
+* Simple 3D movement
+* First person
+* Euclidean panels you can click on while still being in a 3D environment
+* Very simplistic models for everything, as below showcased
 ## Main office decor inspirations
 * ### Stanley Parable
 ![stanley](https://github.com/pwspew/3dpaperclipcopy/blob/main/images/The_Office.webp)
