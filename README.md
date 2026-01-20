@@ -23,7 +23,7 @@ You can play the original Universal Paperclips game [here](https://www.decisionp
 * Very simplistic models for everything, as below showcased
 ## UML rough draft
 ![dauml](https://github.com/pwspew/3dpaperclipcopy/blob/main/images/peepee.drawio.png)
-## Main office decor inspirations
+## Office decor inspirations
 * ### Stanley Parable
 ![stanley](https://github.com/pwspew/3dpaperclipcopy/blob/main/images/The_Office.webp)
 
