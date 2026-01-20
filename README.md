@@ -9,8 +9,7 @@ You can read more about it [here](https://en.wikipedia.org/wiki/Instrumental_con
 
 
 You can play the original Universal Paperclips game [here](https://www.decisionproblem.com/paperclips/)
-## UML rough draft
-![dauml](https://github.com/pwspew/3dpaperclipcopy/blob/main/images/peepee.drawio.png)
+
 ## Core Loop (not in order)
 * Make Sticky notes
 * hire new workers
@@ -22,6 +21,8 @@ You can play the original Universal Paperclips game [here](https://www.decisionp
 * First person
 * Euclidean panels you can click on while still being in a 3D environment
 * Very simplistic models for everything, as below showcased
+## UML rough draft
+![dauml](https://github.com/pwspew/3dpaperclipcopy/blob/main/images/peepee.drawio.png)
 ## Main office decor inspirations
 * ### Stanley Parable
 ![stanley](https://github.com/pwspew/3dpaperclipcopy/blob/main/images/The_Office.webp)
