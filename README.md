@@ -34,7 +34,7 @@ You can play the original Universal Paperclips game [here](https://www.decisionp
 
 
 ### Contributors
-[meself](https://github.com/pwspew/portfolio2)
+*[Me.](https://github.com/pwspew/portfolio2)
 
 
 
