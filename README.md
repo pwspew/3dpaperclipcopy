@@ -33,5 +33,8 @@ You can play the original Universal Paperclips game [here](https://www.decisionp
 ![stillalive](https://github.com/pwspew/3dpaperclipcopy/blob/main/images/download.jpg)
 
 
+### Contributors
+[meself](https://github.com/pwspew/portfolio2)
+
 
 
